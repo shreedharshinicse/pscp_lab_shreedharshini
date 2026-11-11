@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>i
 int main()
 {
    int a, b, res, choice;
